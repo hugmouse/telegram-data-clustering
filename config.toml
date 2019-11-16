@@ -1,4 +1,10 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+title = "Telegram's Data Clustering"
+theme = "hugonews"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    site = "sites"
+    authors = "author"

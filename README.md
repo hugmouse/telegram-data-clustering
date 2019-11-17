@@ -1,16 +1,22 @@
+# Telegram Data Clustering contest 
+
+*This repository is a joke.* 
+
+## Content
+
+-----
+
 - [Telegram Data Clustering contest](#telegram-data-clustering-contest)
   * [Demo](#demo)
   * [Video demo](#video-demo)
   * [Current problem](#current-problem)
   * [Installing and using](#you-are-crazy-and-want-to-try-it-yourself)
-
-# Telegram Data Clustering contest 
-
-*This repository is a joke.* 
+  
+-----
 
 Here I played with the data that Telegram provided during the clustering contest.
 
-There is too much data to host on a free [zeit](https://zeit.co), so in fact this repository cannot be used for visual representation of all this data.
+There is too much data to host on a free plan of [zeit](https://zeit.co), so in fact this repository cannot be used for visual representation of all this data.
 
 However, for all who looked, I parsed 166K files `.html` and made in a separate repository - [/tdc-exported/](https://github.com/hugmouse/tdc-exported)
 

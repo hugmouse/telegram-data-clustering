@@ -16,7 +16,7 @@
 
 Here I played with the data that Telegram provided during the clustering contest.
 
-There is too much data to host on a free plan of [zeit](https://zeit.co), so in fact this repository cannot be used for visual representation of all this data.
+There is too much data to host on a free plan of [zeit](https://zeit.co), so in fact this repository cannot be used for visual representation of all this data. (And zeit.co incorrectly displayed it. Therefore, if you want to test - it is better to go to the installation section)
 
 However, for all who looked, I parsed 166K files `.html` and made in a separate repository - [/tdc-exported/](https://github.com/hugmouse/tdc-exported)
 
